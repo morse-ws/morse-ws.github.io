@@ -46,7 +46,7 @@ feature_text: |
 - Matteo Morelli, CEA LIST, France
 - Michael Beitelschmidt, Chair of Dynamics and Mechanism Design, Technische Universität Dresden 
 - Nico Hochgeschwender, German Aerospace Center (DLR), Germany
-- Patrizio Pelliccione, Chalmers University of Technology | University of Gothenburg, Sweden
+- Patrizio Pelliccione, Chalmers University of Technology &#124; University of Gothenburg, Sweden
 - Ralf Reussner, Karlsruhe Institute of Technology, Germany
 - Sebastian Richly, Software Technology Group, Technische Universität Dresden, Germany 
 - Sebastian Wrede, CoR-Lab, Bielefeld University, Germany 
