@@ -35,10 +35,12 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Morse 2020
+  url: /editions/2020/
+- title: People
+  url: /people/
+- title: Past Editions
+  url: /editions/
 
 # Footer nav
 navigation_footer:
