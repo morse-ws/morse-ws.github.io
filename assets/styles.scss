@@ -9,3 +9,9 @@ h1 {
   font-size: 1.6em;
   margin: 0.67em 0;
 }
+
+.content {
+  @include breakpoint(break-1) {
+    width: 80%;
+  }
+}
