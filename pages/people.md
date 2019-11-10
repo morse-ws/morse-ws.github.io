@@ -51,6 +51,6 @@ feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/ma
 - Serge Stinckwich, IRD, France
 - Sven Hellbach, Artificial Intelligence Lab, University of Applied Sciences Dresden, Germany 
 - Sven Schneider, Hochschule Bonn-Rhein-Sieg, Germany
-- Thorsten Berger, Chalmers | University of Gothenburg, Sweden
+- Thorsten Berger, Chalmers &#124; University of Gothenburg, Sweden
 - Ulrik Schultz, University of Southern Denmark, Denmark
 
