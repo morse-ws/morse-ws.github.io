@@ -1,9 +1,9 @@
 ---
-title: MORSE Workshop Series
+title: About the MORSE Workshop Series
 layout: page
-feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.jpg"
+feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.png"
 feature_text: |
-  ## International Workshop Series on Model-driven Robot Software Engineering
+  ## International Workshop on Model-driven Robot Software Engineering
 ---
 
 It is impossible to imagine today's production facilities without robots. With precise and optimized hardware/software solutions, they automate many steps in modern manufacturing. Since the required hardware gets cheaper, the available software solutions more sophisticated, and their acceptance within society increases, robots will become a more common part of daily life as well. In contrast to production, where all external influencing factors are known and explicitly treated at design-time, the development of software for robots operating in unpredictable environments (such as service robots) requires new and more sophisticated approaches. Over the last decades, research in robotics made huge progress, especially in the fields of recognition, image processing, knowledge representation, planning, control, and collaboration. However, robotic researchers mainly concentrate on creating hardware/software solutions for specialized tasks. This leads to a landscape of isolated solutions which cannot be reused and combined easily. Furthermore, today's approaches lack comprehensive software engineering methodologies and abstractions for handling the increased heterogeneity and complexity of robotic software systems. Hence, there is a need to incorporate software engineering principles within the development of future robot platforms.
