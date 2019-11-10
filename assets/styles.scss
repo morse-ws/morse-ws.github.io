@@ -3,8 +3,6 @@ title: false
 styles: true
 ---
 
-@import "alembic";
-
 h1 {
   font-size: 1.6em;
   margin: 0.67em 0;
@@ -15,3 +13,6 @@ h1 {
     width: 80%;
   }
 }
+
+@import "alembic";
+
