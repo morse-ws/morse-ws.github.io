@@ -4,14 +4,14 @@ layout: page
 feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.png"
 ---
 
-# Organizers
+## Organizers
 
 - [Sebastian Götz](http://st.inf.tu-dresden.de/sgoetz/) (main contact), Technische Universität Dresden, Germany
 - [Simos Gerasimou](http://www-users.cs.york.ac.uk/simos/), University of York, UK
 - [Sebastian Wrede](https://www.cor-lab.de/swrede), Universität Bielefeld, Germany
 - [Andreas Wortmann](https://www.se-rwth.de/staff/wortmann/), RWTH Aachen University, Germany
 
-# PC Members of Previous Editions
+## PC Members of Previous Editions
 
 - Alexander Jungmann, IAV GmbH, Germany
 - Andreas Wortmann, Software Engineering Group, RWTH Aachen University 
