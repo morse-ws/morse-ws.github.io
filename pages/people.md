@@ -1,9 +1,9 @@
 ---
-title: People
+title: 
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.jpg"
 feature_text: |
-  ## International Workshop on Model-driven Robot Software Engineering
+  ## People of MORSE
 ---
 
 # Organizers
