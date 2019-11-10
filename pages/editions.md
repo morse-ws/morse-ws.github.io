@@ -1,7 +1,11 @@
 ---
+title: Past Editions
 layout: page
-title: Past Editions of the Workshop
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Past Editions of the MORSE Workshop
 ---
+
 
 Past editions of the MORSE workshop were held at different venues:
 
