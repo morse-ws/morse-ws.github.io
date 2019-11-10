@@ -1,12 +1,10 @@
 ---
-title: Contact
+title: 
 layout: page
 feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.jpg"
 feature_text: |
-  ## International Workshop on Model-driven Robot Software Engineering
+  ## Contact
 ---
-
-# Contact
 
 - [Sebastian Götz](http://st.inf.tu-dresden.de/sgoetz/) (main contact), Technische Universität Dresden, Germany
 - [Simos Gerasimou](http://www-users.cs.york.ac.uk/simos/), University of York, UK
