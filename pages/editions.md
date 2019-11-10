@@ -6,7 +6,6 @@ feature_text: |
   ## Past Editions of the MORSE Workshop
 ---
 
-
 Past editions of the MORSE workshop were held at different venues:
 
 - [MORSE17](http://st.inf.tu-dresden.de/MORSE19/) (co-located at MODELS'19, Munich, Germany)
