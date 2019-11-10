@@ -36,11 +36,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Morse 2020
-  url: /editions/2020/
+  url: /pages/2020/
 - title: People
-  url: /people/
+  url: /pages/people/
 - title: Past Editions
-  url: /editions/
+  url: /pages/editions/
 
 # Footer nav
 navigation_footer:
