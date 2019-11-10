@@ -1,9 +1,7 @@
 ---
-title: 
+title: People of MORSE
 layout: page
 feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.jpg"
-feature_text: |
-  ## People of MORSE
 ---
 
 # Organizers

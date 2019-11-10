@@ -1,9 +1,7 @@
 ---
-title: 
+title: Past Editions of the MORSE Workshop
 layout: page
 feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.jpg"
-feature_text: |
-  ## Past Editions of the MORSE Workshop
 ---
 
 Past editions of the MORSE workshop were held at different venues:
