@@ -2,6 +2,8 @@
 title: Past Editions of the MORSE Workshop
 layout: page
 feature_image: "https://raw.githubusercontent.com/morse-ws/morse-ws.github.io/master/images/kitchen.png"
+feature_text: |
+  ## International Workshop on Model-driven Robot Software Engineering
 ---
 
 Past editions of MORSE were held at different venues:
