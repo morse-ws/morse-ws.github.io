@@ -6,6 +6,7 @@ feature_text: |
   ## International Workshop on Model-driven Robot Software Engineering
 ---
 
+You can reach the organizers of MORSE via _morse (at) lists.rwth-aachen (dot) de_ or individually:
 - [Sebastian Götz](http://st.inf.tu-dresden.de/sgoetz/) (main contact), Technische Universität Dresden, Germany
 - [Simos Gerasimou](http://www-users.cs.york.ac.uk/simos/), University of York, UK
 - [Sebastian Wrede](https://www.cor-lab.de/swrede), Universität Bielefeld, Germany
